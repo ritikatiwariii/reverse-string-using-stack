@@ -11,8 +11,8 @@ int maxelement(int arr[],int size){
     }
 }
 int main(){
-    int n=8;
-    int a[]={2,45,67,10000,56,134,123,123};
+    int n=6;
+    int a[]={2,45,67,10000,123,123};
     cout<<"maxelements is",<<maxelement(a,n);
     return 0;
 
